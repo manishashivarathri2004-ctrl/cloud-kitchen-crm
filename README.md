@@ -3,5 +3,5 @@ Salesforce CRM project document
 # Salesforce CRM Projects
 
 ## Cloud Kitchen CRM Project  
-[📄 View on Google Docs](https://docs.google.com/document/d/1gGcjPEtOPU-OJx4H96j-FppiM0Cl8GQ7DNH38cEAe1U/edit?usp=sharing )
+(https://1drv.ms/w/c/6dad8da0166ab8be/EahzU0ZOqOFIu7iNwZZirbUBOzDJW_im70Cwmug7l_NMSQ?e=i3YMRa)
 Covers **Phases 1 & 2**: Problem Understanding & Org Setup for a Cloud Kitchen CRM.
